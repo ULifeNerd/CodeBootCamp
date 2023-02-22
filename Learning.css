@@ -1,6 +1,6 @@
 h2 {
-    background-color: red;
-    color: teal;
+    background-color: #ffafcc;
+    color: #219ebc;
 }
 
 button {
@@ -11,4 +11,27 @@ button {
 p {
     color: blue;
     background-color: yellow;
+    font-weight: 700;
+    line-height: 2;
 }
+
+/*Common Text Properties*/
+
+/*The text-align CSS property sets the 
+    horizontal alignment of the inline-level 
+    content inside a block element or table-cell box. START, END &
+    CENTER*/
+    h1{
+        text-transform: uppercase;
+        font-family: monospace;
+        text-align: center;
+        font-size: 40px;
+        font-weight: 100;
+        letter-spacing: 20px;
+        text-decoration: underline wavy purple;
+        
+        }
+
+
+
+
