@@ -3,16 +3,14 @@ h2 {
     color: #219ebc;
 }
 
-button {
+button:hover{
     background-color: #3a86ff;
     color: #ffbe0b;
 }
 
-p {
-    color: blue;
-    background-color: yellow;
+p{
     font-weight: 700;
-    line-height: 2;
+    background-color:#ffbe0b
 }
 
 /*Common Text Properties*/
@@ -51,4 +49,12 @@ span {
 
 li a { color:#d00000;
 
+}
+
+section[class="post"] {
+    background-color: purple;
+}
+
+section h2 {
+    background-color: #57cc99;
 }
