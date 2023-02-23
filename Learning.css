@@ -33,3 +33,19 @@ wouldn't affect the other h1 elemnts*/
     letter-spacing: 20px;
     text-decoration: underline wavy purple;
 }
+
+/*Basic Selectors Practice*/
+li{
+    color:blue;
+    
+    
+}
+
+.done{
+    color:grey;
+}
+
+#clear{
+    background-color: red;
+    color:white;
+}
