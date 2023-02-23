@@ -4,8 +4,8 @@ h2 {
 }
 
 button {
-    background-color: black;
-    color: magenta;
+    background-color: #3a86ff;
+    color: #ffbe0b;
 }
 
 p {
@@ -29,9 +29,22 @@ p {
         font-weight: 100;
         letter-spacing: 20px;
         text-decoration: underline wavy purple;
-        
         }
+        
+        body{
+            background-color: #6a040f;
+        }
+/*TRY NOT TO OVER DO IT WITH ID'S*/
 
+        #signup {
+            background-color: #d90429;
+            color:#03045e;
+        }
+span {
+    color: #000814;
+}
 
-
-
+.tag{
+    background-color: #57cc99;
+    font-size: 16px;
+}
